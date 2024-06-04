@@ -1,0 +1,21 @@
+<?php
+/*$sql = "SELECT * FROM own";
+$result = mysqli_query($conn,$sql);
+while($row=mysqli_fetch_array($result)){
+    ?>
+        <img src="bootstrap/img/my_photo.jpg" class="rounded mx-auto d-block">
+        <tr><th>ชื่อ : <?=$row["name"]?></th></tr>
+        <tr><th>นามสกุล : <?=$row["surname"]?></th></tr>
+        <tr><th>เบอร์โทรติดต่อ : <?=$row["tel"]?></th></tr>
+        <tr><th>วันเกิด : <?=$row["birthday"]?></th></tr>
+        <tr><th>สัญชาติ : <?=$row["nationality"]?></th></tr>
+        <tr><th>เพศ : <?=$row["gender"]?></th></tr>
+        <tr><th>ที่อยู่ : <?=$row["address"]?></th></tr>
+        <tr><th>ประเทศ : <?=$row["country"]?></th></tr>
+        <tr><th>อีเมล : <?=$row["email"]?></th></tr>
+        <tr><th>มหาวิทยาลัย : <?=$row["university"]?></th></tr>
+        </tr>*/
+    <?php
+    //}
+    //mysqli_close($conn);
+    ?>
